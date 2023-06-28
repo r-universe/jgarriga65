@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/jgarriga65/bigmap
-	shallow = true
-	registered = true
 [submodule "EMbC"]
 	path = EMbC
 	url = https://github.com/cran/EMbC
-	shallow = true
-	registered = true
