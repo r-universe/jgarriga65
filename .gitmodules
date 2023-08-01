@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bigMap"]
-	path = bigMap
-	url = https://github.com/jgarriga65/bigmap
 [submodule "EMbC"]
 	path = EMbC
 	url = https://github.com/cran/EMbC
+[submodule "bigMap"]
+	path = bigMap
+	url = https://github.com/jgarriga65/bigmap
