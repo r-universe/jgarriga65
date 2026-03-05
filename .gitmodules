@@ -5,6 +5,3 @@
 [submodule "EMbC"]
 	path = EMbC
 	url = https://github.com/cran/EMbC
-[submodule "bigMap"]
-	path = bigMap
-	url = https://github.com/jgarriga65/bigmap
